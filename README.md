@@ -1,4 +1,4 @@
-# Minpro-2-PBO-KonservasiOrangutanKalimantan
+# UTS-PBO-KonservasiOrangutanKalimantan
 
     Dibuat oleh: Riaz Ramadhan Al Fattah
     NIM: 2509116106
@@ -17,7 +17,7 @@
 ### - [Output Program](#output-program)
 
 ## Deskripsi Program
-**Sistem Konservasi & Rehabilitasi Orangutan Kalimantan** adalah aplikasi berbasis **Java CLI** lanjutan yang dikembangkan dari **Mini Project 1**. Program ini digunakan untuk mendata, memantau, dan mengelola tahapan rehabilitasi orangutan di berbagai Taman Nasional di Pulau Kalimantan. Program menerapkan **CRUD penuh** dengan pendekatan **Object-Oriented Programming (OOP)** serta **arsitektur MVC (Model–View–Controller)**.
+**Sistem Konservasi & Rehabilitasi Orangutan Kalimantan** adalah aplikasi berbasis **Java CLI** Program ini digunakan untuk mendata, memantau, dan mengelola tahapan rehabilitasi orangutan di berbagai Taman Nasional di Pulau Kalimantan. Program menerapkan **CRUD penuh** dengan pendekatan **Object-Oriented Programming (OOP)** serta **arsitektur MVC (Model–View–Controller)**.
 
 Pada Mini Project 2 ini ditambahkan:
 - **Inheritance**: `Orangutan` (superclass) dengan 2 subclass `OrangutanJantan` dan `OrangutanBetina`.
